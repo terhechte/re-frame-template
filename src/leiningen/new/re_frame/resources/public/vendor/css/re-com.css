@@ -1333,3 +1333,7 @@ code {
   width: 1em;
   text-align: center;
 }
+
+#app {
+  height: 100%;
+}
